@@ -1,5 +1,10 @@
+## Since Sept. 2022 this repository has been merged into  https://lip6.github.io/libITS/
+
+This repository is now archived.
+
 # ITS-CTL
 CTL symbolic model-checker based on libDDD and libITS
+
 
 See our main homepage for details : http://ddd.lip6.fr
 
